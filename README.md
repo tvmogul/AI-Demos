@@ -1,4 +1,12 @@
 # AI-Demos
+
+# Background
+Many years I Bayesian Optimization and the early forms of neural network in C++ to determine which television stations to buy half hour infomercial time and I quickly realized that AI Neural Networks implementng Bayesian Optimization was able to corner the market in infomercial time.
+
+Later I applied those same techniques to all forms of advertising to determine what ad media ti buy and the maximum to maxmum to pay for each buy by calculating the probality of turning a net profit over the cost of media.
+
+This series of articles will demonstrate the techniques I developed in AI, Neural Networks and Bayesian Op[timization.
+
 AI Neural Networks &amp; Bayesian Optimization for Media Buying
 ## AIDemos Electron.NET ASP.NET 8 CORE 8 Web App (Model-View-Controller)
 
