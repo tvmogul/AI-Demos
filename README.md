@@ -1,4 +1,4 @@
-# AI Net Profit™ Demos
+# AINetProfit™ Demos called AIDemos
 I have been workig a free AI Neural Network Accounting aplication called AINetProfit™ that I am getting ready to release. This repository will include aarts of that app broken up into smaller pieces the code for creating various Neural Networks for accounting and managing a variety of things from media buying to security can be more eaasily examined for how ML.NET can be used to create and train those networks.
 
 # Background
