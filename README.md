@@ -1,11 +1,14 @@
-# AI-Demos
+# AI Net Profit™ Demos
+I have been workig a free AI Neural Network Accounting aplication called AINetProfit™ that I am getting ready to release. This repository will include aarts of that app broken up into smaller pieces the code for creating various Neural Networks for accounting and managing a variety of things from media buying to security can be more eaasily examined for how ML.NET can be used to create and train those networks.
 
 # Background
-Many years I Bayesian Optimization and the early forms of neural network in C++ to determine which television stations to buy half hour infomercial time and I quickly realized that AI Neural Networks implementng Bayesian Optimization was able to corner the market in infomercial time.
+My background is in Theoretical Physics and Medicine. But after fuinishing medical school I decided to sell products I created on National Television instead of practicing. I wrote educational software I sold on national television and later I wrote software to manage my companies. Many years ago I used C++ and Bayesian Optimization and an early forms of neural networks to determine which television stations to buy half hour infomercial time on. I was able to determine which television stations to buy by matching the demographics of a product with that of the zip code census data against the zip codes that fell within the broadcast radius of each television station. And I was able to calculate the maximum amount to bid on each station for each half hor of infomercial time to maximize my net profit on each media buy. The results of each media buy were feed baack using Bayesian Optimization and that system was so successful that it enabled me to make a large fortune.
 
-Later I applied those same techniques to all forms of advertising to determine what ad media ti buy and the maximum to maxmum to pay for each buy by calculating the probality of turning a net profit over the cost of media.
+Later I applied those same techniques to all forms of advertising to determine what ad media to buy and the maximum to pay for each buy by calculating the probality of turning a net profit over the cost of media.
 
 This series of articles will demonstrate the techniques I developed in AI, Neural Networks and Bayesian Op[timization.
+
+
 
 AI Neural Networks &amp; Bayesian Optimization for Media Buying
 ## AIDemos Electron.NET ASP.NET 8 CORE 8 Web App (Model-View-Controller)
